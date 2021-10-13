@@ -66,3 +66,11 @@ I navigated to "Edit" > "Project Settings" > "Player" and changed the "Api compa
 | **Entities package:** | 0.17.0-preview.42 |
 | **Hybrid renderer:**  | 0.11.0-preview.44 |
 | **DOTS Editor:**      | 0.12.0-preview.6  |
+
+
+## Controls (in Play Mode)
+
+- Pressing "S" - Instantiates game objects animated by a MonoBehaviour.
+- Pressing "D" - Destroys the spawned game objects.
+- Pressing "E" - Spawns entities animated by an ECS system script.
+- TODO - Key binding and functionality for destroying entities.
